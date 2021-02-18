@@ -1,5 +1,11 @@
 ![logo](https://github.com/fatmuh/fatmuh/blob/main/logo-github.png)
 
+<p align="center">
+  <a href="https://fmdigitalcreative.com">Website</a> -
+  <a href="https://instagram.com/fathurmhmmddd">Twitter</a> -
+  <a href="https://twitter.com/intent/follow?screen_name=fatm_uh&tw_p=followbutton">Twitter</a>
+</p>
+
 Hi 👋, I'm Fathur Muhammad, a freelance developer living in Indonesia, specializing in Backend Engineer.
 
 - 🔭 I’m currently working as a freelance programmer
