@@ -1,4 +1,4 @@
-![logo](https://github.com/slorber/slorber/blob/master/logo.png)
+![logo](https://github.com/fatmuh/fatmuh/blob/main/logo-github.png)
 
 Hi 👋, I'm Fathur Muhammad, a freelance developer living in Indonesia, specializing in Backend Engineer.
 
