@@ -13,5 +13,5 @@ Hi 👋, I'm Fathur Muhammad, a freelance developer living in Indonesia, special
 - 👯 I’m looking to collaborate on backend or frontend programming
 - 🤔 I’m looking for help with google
 - 💬 Ask me about PHP Native, Codeigniter, HTML, CSS
-- 📫 How to reach me: fatmuhdev@gmail.com
-- ⚡ Fun fact: I've been studying programming since grade 3 SD and have become a hobby now.
+- 📫 How to reach me: fathur22.mf@gmail.com
+- ⚡ Fun fact: I've been studying programming since primary school and have become a hobby now.
