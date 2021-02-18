@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://fmdigitalcreative.com">Website</a> -
-  <a href="https://instagram.com/fathurmhmmddd">Twitter</a> -
+  <a href="https://instagram.com/fathurmhmmddd">Instagram</a> -
   <a href="https://twitter.com/intent/follow?screen_name=fatm_uh&tw_p=followbutton">Twitter</a>
 </p>
 
