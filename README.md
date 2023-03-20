@@ -1,7 +1,7 @@
 ![logo](https://github.com/fatmuh/fatmuh/blob/main/logo-github.png)
 
 <p align="center">
-  <a href="https://fmdigitalcreative.com">Website</a> -
+  <a href="https://fatmuh.dev">Website</a> -
   <a href="https://instagram.com/fathurmhmmddd">Instagram</a> -
   <a href="https://twitter.com/intent/follow?screen_name=fatm_uh&tw_p=followbutton">Twitter</a>
 </p>
